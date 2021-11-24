@@ -22,14 +22,14 @@ M= Marriage
 E= Enemies
 S= Siblings
 
-![Description](https://github.com/40010753/M1_ProjectType_Goal.git/blob/main/1_Requirements/fl.jpg)
+![Description](https://github.com/PrasadVallem/M1_InternetBanking_c.git/blob/main/1_Requirements/fl.jpg)
 ### Explanation:
 * user enters the name of him and his partner then application will return the relation exist between them 
 * Note: it's just a game the results are not accurate
 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/40010753/M1_ProjectType_Goal.git/blob/main/1_Requirements/swot.PNG)
+![SWOT Analysis](https://github.com/PrasadVallem/M1_InternetBanking_c.git/blob/main/1_Requirements/swot.PNG)
 
 # 4W&#39;s and 1&#39;H
 
